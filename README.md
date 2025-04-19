@@ -1,0 +1,2 @@
+# make_back_front_sample-back
+フロントとバックを分けたDocker構築のサンプル作成用リポジトリのバックです。
